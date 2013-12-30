@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=xCord\ yCord\ fr\ w
+comment0.target=Zombie(int,\ int,\ boolean,\ World)
+numComments=1

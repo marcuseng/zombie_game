@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=xCord\ yCord\ w
+comment0.target=Ammo(int,\ int,\ World)
+numComments=1
